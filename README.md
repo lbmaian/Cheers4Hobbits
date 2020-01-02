@@ -19,7 +19,7 @@ Should be compatible with other mods, including modded drugs and [custom races],
 * Ludeon - [RimWorld]
 
 ## Links
-* Steam: TBD
+* Steam: https://steamcommunity.com/workshop/filedetails/?id=1957109386
 * GitHub: https://github.com/lbmaian/RimWorld-Cheers4Hobbits
 
 [Lord of the Rims Hobbits]: https://github.com/Lord-of-the-Rims-DevTeam/Lord-of-the-Rims---Hobbits
