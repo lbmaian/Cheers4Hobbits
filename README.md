@@ -12,6 +12,7 @@ Should be compatible with other mods, as long as they don't patch the same metho
 
 ## Credits
 * lbmaian - author
+* ArtyMarty - preview image artist (thank you!)
 * pardeike - [Harmony library] that's used for patching at runtime
 * Ludeon - [RimWorld]
 
