@@ -3,6 +3,7 @@
     <ProjectGuid>{D77BEA63-7C3F-4014-8FF1-FDD4B9A4437C}</ProjectGuid>
     <NoStdLib>True</NoStdLib>
     <TargetFramework>net35</TargetFramework>
+    <LangVersion>8.0</LangVersion>
     <AppendTargetFrameworkToOutputPath>False</AppendTargetFrameworkToOutputPath>
     <AssemblyTitle>Cheers4Hobbits</AssemblyTitle>
     <Product>Cheers4Hobbits</Product>
